@@ -1,7 +1,7 @@
 function [v_inf, time2pl] = calc_v_inf_target(dv_total, target_pl)
 % Author: Matt Wilson
 % Date: 02-19-2022
-% Last Updated By: Matt Wilson (02-20-2022)
+% Last Updated By: Matt Wilson (02-25-2022)
 % Function: v_inf = calc_v_inf_target(dv_total, target_pl)
 % Description: 
 % Inputs: dv_total - (double) the estimated total delta-v (km/s)
